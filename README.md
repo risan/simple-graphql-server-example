@@ -5,17 +5,17 @@
 
 A simple GraphQL server example with in-memory data. Powered by [graphql-yoga](https://github.com/graphcool/graphql-yoga) 🧘.
 
-Checkout the [demo here](https://general-repair.glitch.me/).
+Checkout the [GraphQL playground demo](https://general-repair.glitch.me/).
+
+![GraphQL Playground](https://res.cloudinary.com/risan/image/upload/v1523218704/simple-graphql-server-example_utvh2a.png)
 
 > ⚠️ This example is using in-memory data
 >
 > Note that this example is for learning purpose and it's using in-memory data. It means the data will be loss on every server restart.
 
-![GraphQL Playground](https://res.cloudinary.com/risan/image/upload/v1523218704/simple-graphql-server-example_utvh2a.png)
-
 ## Requirements
 
-The following items are required to run this React application:
+The following items are required to run this application:
 
 * [Node.js](https://nodejs.org) version 8 or higher
 
